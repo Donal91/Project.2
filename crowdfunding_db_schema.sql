@@ -1,8 +1,8 @@
-﻿-- drop tables if exist
+-- drop tables if exist
 
 drop table if exists contacts;
 drop table if exists category;
-drop table if exists dsubcategory;
+drop table if exists subcategory;
 drop table if exists campaign;
 
 -- create contacts table and set our primary key
